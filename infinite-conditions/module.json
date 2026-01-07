@@ -43,6 +43,6 @@
     }
   ],
   "url": "https://github.com/AyeSpydie/LimitlessEffects",
-  "manifest": "https://raw.githubusercontent.com/AyeSpydie/LimitlessEffects/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/AyeSpydie/LimitlessEffects/refs/heads/main/infinite-conditions/module.json",
   "download": "https://github.com/AyeSpydie/LimitlessEffects/archive/refs/heads/main.zip"
 }
