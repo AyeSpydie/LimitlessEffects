@@ -1,10 +1,10 @@
 {
   "id": "infinite-conditions",
   "title": "Infinite Conditions",
-  "version": "1.0",
+  "version": "1.1",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "description": "<p><strong>Infinite Collaborations!</strong></p><p class=\"p2\"></p><p class=\"p3\">Infinite Conditions is intended to allow Pathfinder Infinite authors to collaborate with each other: the conditions in this book can be used in any Pathfinder Infinite product, with the accompanying Foundry module as a consolidated compendium where these conditions can be accessed without authors needing to reprint the conditions in their own works. This book will hopefully be updated in time with new content, not just from the original authors but from others on Pathfinder Infinite as well, helping to grow our community and inspire further collaborative works.</p>",
   "authors": [
