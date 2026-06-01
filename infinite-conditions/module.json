@@ -1,7 +1,7 @@
 {
   "id": "infinite-conditions",
   "title": "Infinite Conditions",
-  "version": "1.1",
+  "version": "1.1.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -13,17 +13,23 @@
       "email": "ayespydie@gmail.com",
       "url": "https://www.patreon.com/cw/AyeSpydie",
       "discord": "AyeSpydie",
-      "flags": {}
+      "flags": {
+        
+      }
     },
     {
       "name": "Vasco Rodrigues Duarte",
       "discord": "Vascord",
-      "flags": {}
+      "flags": {
+        
+      }
     },
     {
       "name": "Sasha Laranoa Harving",
       "discord": "SLH / Solatra / Sasha (nov/nov)",
-      "flags": {}
+      "flags": {
+        
+      }
     }
   ],
   "flags": {
@@ -39,6 +45,17 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Infinite Conditions",
+      "thumbnail": "modules/infinite-conditions/assets/preview.webp",
+      "loop": false,
+      "flags": {
+        
       }
     }
   ],
