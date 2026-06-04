@@ -1,35 +1,29 @@
 {
   "id": "infinite-conditions",
   "title": "Infinite Conditions",
-  "version": "1.1.1",
+  "version": "1.2",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
   },
-  "description": "<p><strong>Infinite Collaborations!</strong></p><p class=\"p2\"></p><p class=\"p3\">Infinite Conditions is intended to allow Pathfinder Infinite authors to collaborate with each other: the conditions in this book can be used in any Pathfinder Infinite product, with the accompanying Foundry module as a consolidated compendium where these conditions can be accessed without authors needing to reprint the conditions in their own works. This book will hopefully be updated in time with new content, not just from the original authors but from others on Pathfinder Infinite as well, helping to grow our community and inspire further collaborative works.</p>",
+  "description": "<p><strong>Compatible with Pathfinder 2e and Starfinder 2e!</strong></p><p class=\"p2\"></p><p class=\"p3\">Infinite Conditions is intended to allow Pathfinder Infinite authors to collaborate with each other: the conditions in this book can be used in any Pathfinder Infinite product, with the accompanying Foundry module as a consolidated compendium where these conditions can be accessed without authors needing to reprint the conditions in their own works. This book will hopefully be updated in time with new content, not just from the original authors but from others on Pathfinder Infinite as well, helping to grow our community and inspire further collaborative works.</p>",
   "authors": [
     {
       "name": "Ian Speidel",
       "email": "ayespydie@gmail.com",
       "url": "https://www.patreon.com/cw/AyeSpydie",
       "discord": "AyeSpydie",
-      "flags": {
-        
-      }
+      "flags": {}
     },
     {
       "name": "Vasco Rodrigues Duarte",
       "discord": "Vascord",
-      "flags": {
-        
-      }
+      "flags": {}
     },
     {
       "name": "Sasha Laranoa Harving",
       "discord": "SLH / Solatra / Sasha (nov/nov)",
-      "flags": {
-        
-      }
+      "flags": {}
     }
   ],
   "flags": {
@@ -45,7 +39,20 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
+    },
+    {
+      "name": "sf-conditions",
+      "label": "Infinite Conditions Starfinder",
+      "path": "packs/sf-conditions",
+      "type": "Item",
+      "system": "sf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "media": [
@@ -54,9 +61,7 @@
       "caption": "Infinite Conditions",
       "thumbnail": "modules/infinite-conditions/assets/preview.webp",
       "loop": false,
-      "flags": {
-        
-      }
+      "flags": {}
     }
   ],
   "url": "https://github.com/AyeSpydie/LimitlessEffects",
